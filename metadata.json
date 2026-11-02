@@ -1,0 +1,6 @@
+{
+  "name": "DX QUEST 〜現場の悲鳴を解決せよ〜",
+  "description": "現場の非効率や属人化を業務整理から現場レクチャーまで伴走して解決する、レトロRPG風・業務DXシミュレーション＆ポートフォリオWebアプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
